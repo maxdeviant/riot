@@ -1,3 +1,6 @@
 {
-    "summoner": "v1.4"
+    "match": "v2.2",
+    "match_history": "v2.2",
+    "summoner": "v1.4",
+    "team": "v2.4"
 }
