@@ -1,6 +1,7 @@
 {
     "match": "v2.2",
     "match_history": "v2.2",
+    "stats": "v1.3",
     "summoner": "v1.4",
     "team": "v2.4"
 }
