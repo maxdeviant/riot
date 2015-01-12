@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maxdeviant/riot/issues"
   },
-  "homepage": "https://github.com/maxdeviant/riot"
+  "homepage": "https://github.com/maxdeviant/riot",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
 }
