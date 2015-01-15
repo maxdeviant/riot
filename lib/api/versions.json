@@ -1,5 +1,7 @@
 {
+    "champion": "v1.2",
     "game": "v1.3",
+    "league": "v2.5",
     "match": "v2.2",
     "match_history": "v2.2",
     "stats": "v1.3",
